@@ -1,0 +1,25 @@
+    body{
+    background-color: #66CCFF;
+}
+.card1{
+    background-color: #535C68;
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 0px;
+    height: 300px;
+    color: white;
+    font-size: 80px;
+    text-align:center;
+
+    
+    
+}
+.but{
+    color: white;
+
+  height:200px;
+    padding-top: 50px;
+    background-color: white;
+    border-radius: 50px;
+}
