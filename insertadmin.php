@@ -11,6 +11,6 @@ $sql="CREATE TABLE tokendb(
   ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;";
   $res=mysqli_query($conn,$sql);
   if($res){
-      echo "kdk";
+      echo "<meta http-equiv='refresh' content='5; url=admin.php'>";
   }
 ?>
