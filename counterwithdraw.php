@@ -57,7 +57,7 @@ $row1=mysqli_fetch_row($res2); ?>
 
 				<div class="contact100-form validate-form">
 					<span class="contact100-form-title">
-					Deposit counter
+					withdraw counter
 					</span>
 
 					<div class="container-contact100-form-btn">
