@@ -11,7 +11,7 @@ $row1=mysqli_fetch_row($res2); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Contact V12</title>
+	<title>OTHER CNTR</title>
 	<meta charset="UTF-8">
     
    <?php if(empty($row[0])){
