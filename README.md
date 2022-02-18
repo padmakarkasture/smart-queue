@@ -16,3 +16,9 @@
  3. small screen device of any os connectedto default printer.
  # used technologies
  PHP,HTML,CSS,JAVASCRIPT,JQUERY,RESPONSIVE VOICE JS API
+
+# Database: 
+token, 
+Table: tokendb
+
+deposit,withdraw,other,tokenno(primary key ai)
